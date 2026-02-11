@@ -1,10 +1,6 @@
-@plugin "tailwindcss-animate";
+@import "tailwindcss";
 
 @custom-variant dark (&:is(.dark *));
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 :root {
   --bg: #0b0f1a;
