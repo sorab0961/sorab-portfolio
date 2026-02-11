@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'framer-motion';
 import ElectricBorder from './ElectricBorder';
 
@@ -85,3 +86,4 @@ const Projects = () => {
 };
 
 export default Projects;
+

@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'framer-motion';
 
 const About = () => {
@@ -49,3 +50,4 @@ const About = () => {
 };
 
 export default About;
+

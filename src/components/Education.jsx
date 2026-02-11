@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'framer-motion';
 
 const Education = () => {
@@ -70,3 +71,4 @@ const Education = () => {
 };
 
 export default Education;
+

@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'framer-motion';
 
 const SplitText = ({ text, className = '', delay = 0 }) => {
@@ -51,3 +52,4 @@ const SplitText = ({ text, className = '', delay = 0 }) => {
 };
 
 export default SplitText;
+

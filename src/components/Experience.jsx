@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'framer-motion';
 
 const Experience = () => {
@@ -37,3 +38,4 @@ const Experience = () => {
 };
 
 export default Experience;
+

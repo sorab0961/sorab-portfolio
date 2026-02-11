@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 // import './Navbar.css'; // We will move specific styles here or keep in index.css
 
@@ -40,3 +41,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+

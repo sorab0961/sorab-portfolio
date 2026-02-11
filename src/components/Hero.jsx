@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'framer-motion';
 import SplitText from './SplitText';
 import SpotlightCard from './SpotlightCard';
@@ -67,4 +68,5 @@ const Hero = () => {
 };
 
 export default Hero;
+
 
