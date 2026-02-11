@@ -38,7 +38,7 @@ const Hero = () => {
                     <div className="hero-actions">
                         <a className="btn primary" href="mailto:sorabrajput9998@gmail.com">Email Me</a>
                         <a className="btn ghost" href="https://github.com/sorab0961" target="_blank" rel="noreferrer">GitHub</a>
-                        <a className="btn ghost" href="/Sorab_rajput_resume[Reactjs].pdf" download>Download Resume</a>
+                        <a className="btn ghost" href={`${import.meta.env.BASE_URL}resume.pdf`} download>Download Resume</a>
                     </div>
                     <div className="hero-meta">
                         <span>Gota, Ahmedabad</span>
@@ -67,3 +67,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
